@@ -1,0 +1,16 @@
+body,
+html{
+    background-color: rgb(199, 255, 221);
+}
+
+.App {
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    text-align: center;
+    color: #000000;
+}
+
+h1 {
+    color: #000000;
+    font-family:"Helvetica";
+    margin-top:10vh;
+}
